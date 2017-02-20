@@ -1,11 +1,12 @@
-### Welcome to the worl of Python! 
+Welcome to the worl of Python! 
+-----------------------------------------------------
 
 In this tutorial, we hope to learn more on how to start programming using python. There are lots of stuff you can do with this knowledge like web development, scripting, data processing and more!
 
 If you have questions, please don't hesitate to ask and participate. You can also use the [Issues tab](https://github.com/pprmint/python-sample/issues) on github to ask questions about the code in any of the exercises.
 
 
-#### Getting started
+## Getting started
 We need python first!
 
 Open your terminal or command prompt.
@@ -28,37 +29,21 @@ We will be using `python 3.6` for this tutorial. You can download the [installer
 
 For more detailed installation process, please [use this tutorial](https://tutorial.djangogirls.org/en/python_installation/)
 
->If python 3.6 is already installed, no need to download the installer.
+> If python 3.6 is already installed, no need to download the installer.
 
 Once download is complete, run the installer and follow the steps. Done! You can now start coding in python!
 
-#### Let's do some warm up
+## Let's do some warm up
 
 Now we will do some very basic python program. `Hello WomenWhoCode!`
 
-Open a text editor or any text editing software in your computer. Notepad ++ or Sublime or PyCharm. For beginners, we recommend installing Sublime as it is good for development purposes. You can download Sublime [here](https://www.sublimetext.com/3)
+#### Clone or Download this repository
 
-When you have your text editor open, create a new file and copy the following line of code.
-
-```python
-
-# Basic example on how to print
-# text using different approach in
-# Python.
-
-organization = 'WomanWhoCode!'
-
-# You can print it right away!
-print('Hello WomanWhoCode!')
-
-# Example of string concatenation
-print('Hello ' + organization)
-
-# Using .format() function to attach a string
-print('Hello {}'.format(organization))
+If you have previous experience in using github, just clone this repository by running 
+```git
+git clone https://github.com/pprmint/python-sample.git
 ```
 
-Save the file and name it `women_who_code.py`.
-
-Open a terminal, go to the derectory 
-
+For those who don't have experience in using github, do the following.
+- Download the source code using this [DOWNLOAD LINK](https://github.com/pprmint/python-sample/archive/master.zip)
+- Extract the source code to your preferred directory
