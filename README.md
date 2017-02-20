@@ -47,3 +47,33 @@ git clone https://github.com/pprmint/python-sample.git
 For those who don't have experience in using github, do the following.
 - Download the source code using this [DOWNLOAD LINK](https://github.com/pprmint/python-sample/archive/master.zip)
 - Extract the source code to your preferred directory
+
+#### Running your first Python program
+
+Let's try to run some code.
+- Open a terminal
+- Go to the directory of the repository by running the following command.
+```
+cd <path_to_repo>/python-sample/exercises
+```
+- You should see a file called `first_python_code.py`. This is your simple program that prints some text.
+- Run it by typing the following command.
+```
+python first_python_code.py
+```
+- The output should be
+```
+Hello WomanWhoCode!
+Hello WomanWhoCode!
+Hello WomanWhoCode!
+```
+- Open the file using your text editor to see the code.
+
+#### Try printing your name
+- Inside the file, there is an instruction. Follow it! :)
+- When you are done, save the file and go back to the terminal
+```
+python first_python_code.py
+```
+
+Now you have run your first program! Please see detailed instructions on other exerciese <put link here>
