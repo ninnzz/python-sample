@@ -13,10 +13,16 @@ Open your terminal or command prompt.
 - For linux and mac users, search for `terminal`
 
 After opening the terminal/command prompt, type the following command.
-`python --version`
+```python
+python --version
+```
 
 This will tell you what version of python is currently installed in your computer.
-There are many versions of python but for this session, we will be using `python 3.6`, the latest version. You can download the [installer here](https://www.python.org/downloads/).
+
+For this tutorial, we will be using `python 3.6`, the latest version. You can download the [installer here](https://www.python.org/downloads/).
+
+For more detailed installation process, please [use this tutorial](https://tutorial.djangogirls.org/en/python_installation/)
+
 If python 3.6 is already installed, no need to download the installer.
 
 Once download is complete, run the installer and follow the steps. Done! You can now start coding in python!
