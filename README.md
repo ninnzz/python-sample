@@ -19,11 +19,16 @@ python --version
 
 This will tell you what version of python is currently installed in your computer.
 
-For this tutorial, we will be using `python 3.6`, the latest version. You can download the [installer here](https://www.python.org/downloads/).
+```shell
+Python 3.6.0
+```
+
+
+We will be using `python 3.6` for this tutorial. You can download the [installer here](https://www.python.org/downloads/).
 
 For more detailed installation process, please [use this tutorial](https://tutorial.djangogirls.org/en/python_installation/)
 
-If python 3.6 is already installed, no need to download the installer.
+>If python 3.6 is already installed, no need to download the installer.
 
 Once download is complete, run the installer and follow the steps. Done! You can now start coding in python!
 
