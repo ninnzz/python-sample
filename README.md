@@ -13,7 +13,7 @@ Open your terminal or command prompt.
 - For linux and mac users, search for `terminal`
 
 After opening the terminal/command prompt, type the following command.
-```python
+```shell
 python --version
 ```
 
